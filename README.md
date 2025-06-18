@@ -58,6 +58,6 @@ The **ROC curve** demonstrates perfect classification with an AUC of 1.0 for all
 
 ## Contributors
 
-- Challa Anudeep Reddy
-- Katta Santhosh Kumar Reddy
-- Kolli Tushar
+- Gurram Sai Nikhileswar
+- Kothuju Navyeesh
+- Sagili Sai Krishna Reddy
